@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW_test1
+namespace HW_CSharp1
 {
     class Program
     {
