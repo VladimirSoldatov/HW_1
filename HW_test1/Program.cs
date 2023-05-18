@@ -37,10 +37,6 @@ namespace HW_CSharp1
                         break;
                     default:
                         break;
-
-
-
-
                 }
             }
             else
