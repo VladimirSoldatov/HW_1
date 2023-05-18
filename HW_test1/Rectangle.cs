@@ -72,6 +72,10 @@ namespace HW_CSharp1
         }
         public Rectangle()
         {
+
+        }
+        public void Start()
+        {
             Console.Write("Введите сторону А: ");
             A = GetValue();
             Console.Write("Введите сторону B: ");

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HW_CSharp1
 {
@@ -20,6 +16,7 @@ namespace HW_CSharp1
                         Rectangle a = new Rectangle();
                         try
                         {
+                            a.Start();
                             a.Result();
                         }
                         catch(Exception ex)
